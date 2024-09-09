@@ -1,0 +1,71 @@
+{
+  "info": {
+      "id": "737688",
+      "name": "Wow! China",
+      "cloudinaryImageId": "95982cfa57cb3b7e504f2015c375fd55",
+      "locality": "KORAMANGALA LAYOUT EXTENSION",
+      "areaName": "KORAMANGALA",
+      "costForTwo": "₹300 for two",
+      "cuisines": [
+          "Tibetan",
+          "Chinese",
+          "Asian",
+          "Snacks",
+          "Continental",
+          "Desserts",
+          "Beverages"
+      ],
+      "avgRating": 4.1,
+      "parentId": "226836",
+      "avgRatingString": "4.1",
+      "totalRatingsString": "97",
+      "sla": {
+          "deliveryTime": 21,
+          "lastMileTravel": 0.1,
+          "serviceability": "SERVICEABLE",
+          "slaString": "20-25 mins",
+          "lastMileTravelString": "0.1 km",
+          "iconType": "ICON_TYPE_EMPTY"
+      },
+      "availability": {
+          "nextCloseTime": "2024-09-08 02:00:00",
+          "opened": true
+      },
+      "badges": {},
+      "isOpen": true,
+      "type": "F",
+      "badgesV2": {
+          "entityBadges": {
+              "imageBased": {},
+              "textBased": {},
+              "textExtendedBadges": {}
+          }
+      },
+      "aggregatedDiscountInfoV3": {
+          "header": "ITEMS",
+          "subHeader": "AT ₹129"
+      },
+      "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetails": {
+              "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+              "lottie": {},
+              "video": {}
+          }
+      },
+      "reviewsSummary": {},
+      "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+      "restaurantOfferPresentationInfo": {},
+      "externalRatings": {
+          "aggregatedRating": {
+              "rating": "--"
+          }
+      },
+      "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+  },
+  "analytics": {},
+  "cta": {
+      "link": "https://www.swiggy.com/city/bangalore/wow-china-layout-extension-koramangala-rest737688",
+      "type": "WEBLINK"
+  }
+}
